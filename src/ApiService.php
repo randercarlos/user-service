@@ -1,6 +1,6 @@
 <?php
 
-namespace Services;
+namespace UserServicePackage;
 
 use Illuminate\Support\Facades\Http;
 
